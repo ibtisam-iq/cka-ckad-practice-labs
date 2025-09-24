@@ -1,6 +1,6 @@
-# 📘 CKA & CKAD Practice Lab
+# 📘 CKA & CKAD Practice Labs
 
-![GitHub](https://img.shields.io/github/license/ibtisam-iq/cka-ckad-practice-lab)
+![GitHub](https://img.shields.io/github/license/ibtisam-iq/cka-ckad-practice-labs)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 
 A hands-on **open lab of Kubernetes practice questions and solutions**, curated during my preparation for the **Certified Kubernetes Administrator (CKA)** and **Certified Kubernetes Application Developer (CKAD)** exams. This repository is designed to help every Kubernetes learner succeed.
@@ -80,7 +80,7 @@ This is not just exam prep — it’s a **comprehensive Kubernetes lab**, design
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ibtisam-iq/cka-ckad-practice-lab.git
+   git clone https://github.com/ibtisam-iq/cka-ckad-practice-labs.git
    cd cka-ckad-practice-lab
    ```
 2. Pick a topic folder (e.g., `deployments/`)
@@ -123,6 +123,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## ✨ Final Note
 This lab is my way of giving back, built with **sincerity and dedication**. If it helps you, please share it with others. Together, we grow stronger 🚀
 
-For feedback or questions, open a [GitHub issue](https://github.com/ibtisam-iq/cka-ckad-practice-lab/issues).
+For feedback or questions, open a [GitHub issue](https://github.com/ibtisam-iq/cka-ckad-practice-labs/issues).
 
 ---
