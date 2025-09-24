@@ -81,7 +81,7 @@ This is not just exam prep — it’s a **comprehensive Kubernetes lab**, design
 1. Clone the repository:
    ```bash
    git clone https://github.com/ibtisam-iq/cka-ckad-practice-labs.git
-   cd cka-ckad-practice-lab
+   cd cka-ckad-practice-labs
    ```
 2. Pick a topic folder (e.g., `deployments/`)
 3. Open the `.md` file and practice each question in your cluster
