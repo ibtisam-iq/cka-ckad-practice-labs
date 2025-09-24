@@ -61,10 +61,10 @@ Each `.md` file includes:
 
 🌟 Why This Matters
 
-✅ 100% practical, with real terminal outputs
-✅ Complex questions broken down step by step
-✅ Open for everyone
-✅ Built with honesty, sincerity, and the goal of community service
+- 100% practical, with real terminal outputs
+- Complex questions broken down step by step
+- Open for everyone
+- Built with honesty, sincerity, and the goal of community service
 
 This is not just exam prep — it’s a **comprehensive Kubernetes lab**, designed to build confidence for the CKA/CKAD exams.
 
