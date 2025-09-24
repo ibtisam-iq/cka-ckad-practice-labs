@@ -126,3 +126,9 @@ This lab is my way of giving back, built with **sincerity and dedication**. If i
 For feedback or questions, open a [GitHub issue](https://github.com/ibtisam-iq/cka-ckad-practice-labs/issues).
 
 ---
+
+## 📬 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ibtisam-iq" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
