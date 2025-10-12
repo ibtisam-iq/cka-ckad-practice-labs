@@ -30,7 +30,7 @@ For simple tasks, I practiced without recording. For complex tasks, I documented
 
 * The **original question statement**
 * **Shell commands & outputs**
-* **Detailed explanations** (with exam tips and gotchas)
+* **AI-Assisted Troubleshooting & Explanations** (with exam tips and gotchas)
 
 ---
 
@@ -55,7 +55,7 @@ Each `.md` file includes:
 
 1. **Question statement** (exact task)
 2. **Shell commands & outputs** (real terminal work)
-3. **Explanations & notes** (why it works, exam tips)
+3. **AI-Assisted Troubleshooting & Explanations** (why it works, exam tips)
 
 ---
 
